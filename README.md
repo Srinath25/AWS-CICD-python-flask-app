@@ -22,6 +22,9 @@ AWS CodeDeploy facilitated seamless deployments, orchestrating updates based on 
 
 Continuous Integration & Deployment:
 The CI/CD pipeline, triggered by new commits, automatically deploys Docker images to the EC2 host instances to host the simple Python flask application. This end-to-end automation not only accelerates time to market but also enhances overall system reliability and scalability.
+
+![Screenshot (2681)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/68be24be-6359-453f-963e-ba1fcae3e497)
+
 <video controls src="AWS-CICD.mp4" title="Title"></video> 
 ![alt text](<Screenshot (2681).png>) 
 ![alt text](<Screenshot (2682).png>) 
