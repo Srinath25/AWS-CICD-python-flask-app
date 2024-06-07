@@ -23,12 +23,10 @@ AWS CodeDeploy facilitated seamless deployments, orchestrating updates based on 
 Continuous Integration & Deployment:
 The CI/CD pipeline, triggered by new commits, automatically deploys Docker images to the EC2 host instances to host the simple Python flask application. This end-to-end automation not only accelerates time to market but also enhances overall system reliability and scalability.
 
-![Screenshot (2681)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/68be24be-6359-453f-963e-ba1fcae3e497)
+![Screenshot (2681)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/e872b6dc-eae8-4402-97fd-17b7e1836073)
+![Screenshot (2682)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/61528f77-e7dd-45e7-b3cf-d01487d3fd7c)
+![Screenshot (2683)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/39f7622b-2f0c-48bf-a00f-404e4b2a1870)
+![Screenshot (2684)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/75147ef2-76e6-49e9-b4ad-5b17feae0e43)
+![Screenshot (2685)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/618d3371-6fff-45bc-a877-ac20034f1e6c)
+![Screenshot (2686)](https://github.com/Srinath25/AWS-CICD-python-flask-app/assets/125643384/1b3bec06-7e47-4e04-98e0-5943187aef7f)
 
-<video controls src="AWS-CICD.mp4" title="Title"></video> 
-![alt text](<Screenshot (2681).png>) 
-![alt text](<Screenshot (2682).png>) 
-![alt text](<Screenshot (2683).png>) 
-![alt text](<Screenshot (2684).png>) 
-![alt text](<Screenshot (2685).png>) 
-![alt text](<Screenshot (2686).png>)
